@@ -1,3 +1,4 @@
+
 # 🛒 E-Commerce REST API
 
 A secure and scalable E-Commerce backend built with Node.js, Express.js, and MongoDB. Supports user authentication, product and category management, image uploads, and role-based access control.
