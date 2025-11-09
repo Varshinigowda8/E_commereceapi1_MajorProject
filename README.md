@@ -1,4 +1,4 @@
-
+![image ailt](image_url)https://github.com/Varshinigowda8/E_commereceapi1_MajorProject/blob/6f2bce93bddb5f95633c11891ced78b4db2f5057/74b1185a-55e3-4ce0-a7b8-8d386fef2a74.jpg
 # 🛒 E-Commerce REST API
 
 A secure and scalable E-Commerce backend built with Node.js, Express.js, and MongoDB. Supports user authentication, product and category management, image uploads, and role-based access control.
